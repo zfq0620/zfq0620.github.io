@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
   
-  <title itemprop="name">ESP8266玩转小爱同学 | 断桥烟雨の博客</title>
+  <title itemprop="name">c语言之字节序 | 断桥烟雨の博客</title>
   
     <link rel="shortcut icon" href="/images/favicon.ico">
   
@@ -35,7 +35,7 @@
   mashiro_option.qzone_autocomplete = false;
   mashiro_option.site_name = "🦋断桥の烟雨";
   mashiro_option.author_name = "断桥の烟雨";
-  mashiro_option.site_url = "http://zfq0620.gitee.io";
+  mashiro_option.site_url = "https://zfq0620.gitee.io";
   mashiro_option.v_appId = "GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz";
   mashiro_option.v_appKey = "mgOpfzbkHYqU92CV4IDlAUHQ";
   mashiro_option.mathjax = "0";
@@ -73,7 +73,7 @@
   <figure id="centerbg" class="centerbg">
     <div class="focusinfo no-select">
       <div class="header-tou">
-        <a href="http://zfq0620.gitee.io">
+        <a href="https://zfq0620.gitee.io">
           <img src="https://cdn.jsdelivr.net/gh/zfq0620/cdn@v1.1/img/custom/avatar.jpg">
         </a>
       </div>
@@ -390,11 +390,11 @@
 
   <div class="pattern-center single-center">
     <!-- 有配图默认渲染第一张 -->
-    <div class="pattern-attachment-img lazyload" style="background-image: url(https://cdn.jsdelivr.net/gh/yremp/cdn@2.1.5/img/cover/(5).jpg.webp);" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/yremp/cdn@2.1.5/img/cover/(5).jpg.webp">
+    <div class="pattern-attachment-img lazyload" style="background-image: url(https://cdn.jsdelivr.net/gh/zfq0620/PicGo/img/20200309125339.png);" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/zfq0620/PicGo/img/20200309125339.png">
     </div>
     <header class="pattern-header single-header">
       <h1 class="entry-title">
-      ESP8266玩转小爱同学</h1>
+      c语言之字节序</h1>
       <p class="entry-census">
         <span>
           <a href="">
@@ -406,7 +406,7 @@
         </span>
         <span class="bull">
         ·</span>
-        2020-3-1<span class="bull">
+        2020-3-6<span class="bull">
         ·</span>
       <span id="busuanzi_value_page_pv"></span>次阅读</p>
     </header>
@@ -420,8 +420,18 @@
         <!--<div class="toc-entry-content"><!-- 套嵌目录使用（主要为了支援评论）-->
         
         <div class="entry-content">
-          <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p><strong>基于esp8266的物联网系统</strong></p>
-<a id="more"></a>
+          <h2 id="字节序理解"><a href="#字节序理解" class="headerlink" title="字节序理解"></a>字节序理解</h2><p>字节序其实就是数据在内存中的存储方式，因为内存的地址用高低位之分，数据也有高低位，所以按照存放的顺序一般可分为大端字节序，和小段字节序。</p>
+<p>生活中我们放东西的顺序也是不一样的，有的人习惯性的将自己的物品放在自己的左手边，有的人就习惯性的放在自己的右手边，那对于电脑来说，cpu的不同，内存存储多字节数据的存储方式也相应的不同。</p>
+<h2 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h2><h2 id="主机字节序"><a href="#主机字节序" class="headerlink" title="主机字节序"></a>主机字节序</h2><p>不同类型CPU主机中，内存存储多字节整数的方法不同，称为主机字节序</p>
+<p><strong>主机序列有两种</strong><br>小端序 ：数据的低字节存放在内存的低地址<br>大端序 ：数据的高字节存放在内存的低地址 </p>
+<blockquote>
+<p>一般 inter处理器的字节序为 小端序， 而 ARM 架构的处理器多为大端序</p>
+</blockquote>
+<h2 id="验证主机字节序"><a href="#验证主机字节序" class="headerlink" title="验证主机字节序"></a>验证主机字节序</h2><p>C语言<code>代码片</code></p>
+<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="comment">//定义一个共用体</span></span><br><span class="line"><span class="keyword">union</span> Data</span><br><span class="line">&#123;</span><br><span class="line">	<span class="keyword">int</span> a;</span><br><span class="line">	<span class="keyword">char</span> b;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">union</span> Data data;</span><br><span class="line">	data.a = <span class="number">0x12345678</span>;</span><br><span class="line">	<span class="comment">//小端序</span></span><br><span class="line">	<span class="keyword">if</span> (<span class="number">0x78</span> == data.b)</span><br><span class="line">	&#123;</span><br><span class="line">		<span class="built_in">printf</span>(<span class="string">"the little end sequence\r\n"</span>);</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="comment">//大端序</span></span><br><span class="line">	<span class="keyword">else</span></span><br><span class="line">	&#123;</span><br><span class="line">		<span class="built_in">printf</span>(<span class="string">"the big end sequence\r\n"</span>);</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="编程结果"><a href="#编程结果" class="headerlink" title="编程结果"></a>编程结果</h2><p><img src="https://img-blog.csdnimg.cn/20191117121649689.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="inter处理器"></p>
+<p><strong>运行代码的电脑是inter处理器的，验证为小端序存储</strong></p>
 
         </div>
         <!-- .entry-content -->
@@ -451,22 +461,39 @@
       <section class="post-squares nextprev">
         
           
-            <div class="post-nepre full previous">
+            <div class="post-nepre half previous">
           
-            <a href="/2020/03/04/hello_world/" rel="prev">
+            <a href="/2020/03/07/2.%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8%20github/" rel="prev">
               <div class="background">
-                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/yremp/cdn@2.1.5/img/cover/(1).jpg.webp" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://cdn.jsdelivr.net/gh/yremp/cdn@2.1.5/img/cover/(1).jpg.webp">
+                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/zfq0620/PicGo/img/20200309124730.png" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://cdn.jsdelivr.net/gh/zfq0620/PicGo/img/20200309124730.png">
               </div>
               <span class="label">
               Previous Post</span>
               <div class="info">
                 <h3>
-                Hello world</h3>
+                小白入门github</h3>
                 <hr>
               </div>
             </a>
           </div>
         
+        
+          
+            <div class="post-nepre half next">
+          
+            <a href="/2020/03/04/11.%E5%8D%95%E7%89%87%E6%9C%BA%E5%BC%80%E5%8F%91%E6%9D%BF%E5%BC%95%E8%84%9A%E5%9B%BE/" rel="next">
+              <div class="background">
+                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/zfq0620/PicGo/img/20200309125038.png" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://cdn.jsdelivr.net/gh/zfq0620/PicGo/img/20200309125038.png">
+              </div>
+              <span class="label">
+              Next Post</span>
+              <div class="info">
+                <h3>
+                单片机开发板引脚图</h3>
+                <hr>
+              </div>
+            </a>
+          </div>
         
       </section>
       
@@ -508,7 +535,7 @@
     <div class="ins-search-mask"></div>
     <div class="ins-search-container">
         <div class="ins-input-wrapper">
-            <input type="text" class="ins-search-input" placeholder="请输入关键词..."/>
+            <input type="text" class="ins-search-input" placeholder="Type something..."/>
             <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
         </div>
         <div class="ins-section-wrapper">
@@ -520,10 +547,10 @@
 (function (window) {
     var INSIGHT_CONFIG = {
         TRANSLATION: {
-            POSTS: '文章',
-            // PAGES: '页面',
-            CATEGORIES: '分类',
-            TAGS: '标签',
+            POSTS: 'Posts',
+            // PAGES: 'Pages',
+            CATEGORIES: 'Categories',
+            TAGS: 'Tags',
         },
         ROOT_URL: '/',
         CONTENT_URL: '/content.json',
@@ -650,6 +677,14 @@ $(document).ready(function() {
 });
 </script>
 
+  <script>(function(i,s,o,g,r,a,m){i["DaoVoiceObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;a.charset="utf-8";m.parentNode.insertBefore(a,m)})(window,document,"script",('https:' == document.location.protocol ? 'https:' : 'http:') + "//widget.daovoice.io/widget/f07007f7.js","daovoice")
+    daovoice('init', {
+      app_id: "f07007f7"
+    });
+    daovoice('update');
+  </script>
+  
+
     <div class="openNav no-select" style="height: 50px;">
       <div class="iconflat no-select" style="width: 50px; height: 50px;">
         <div class="icon"></div>
@@ -659,6 +694,7 @@ $(document).ready(function() {
       </div>
     </div>
   </section>
+  <!-- 实现换肤功能 -->
   <div class="skin-menu no-select" id="mainskin" style="position: fixed">
  <div class="theme-controls row-container">
   <ul class="menu-list">
@@ -921,6 +957,26 @@ $(document).ready(function() {
 </style>
 <meting-js
 
+    id="4887733040"
+
+    server="netease"
+
+    type="playlist"
+
+    fixed="true"
+
+    autoplay="false"
+
+    loop="all"
+
+    order="random"
+
+    preload="none"
+
+    volume="0.7"
+
+    mutex="true"
+
 </meting-js>
 <script>
   $(function(){
@@ -935,3 +991,10 @@ $(document).ready(function() {
 </script>
 </body>
 </html>
+<!-- 页面点击小红心 -->
+<script type="text/javascript" src="/js/love.js"></script>
+
+<script src="/live2d-widget/autoload.js"></script>
+
+
+
