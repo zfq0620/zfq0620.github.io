@@ -5,9 +5,9 @@
   <subtitle>让生活更精彩</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://zfq0620.gitee.io/"/>
+  <link href="https://zfq0620.github.io/"/>
   <updated>2020-03-10T13:27:27.940Z</updated>
-  <id>https://zfq0620.gitee.io/</id>
+  <id>https://zfq0620.github.io/</id>
   
   <author>
     <name>Mr Zhai</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo+sakura主题美化合集</title>
-    <link href="https://zfq0620.gitee.io/2020/02/20/13.hexo+sakura%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96%E5%90%88%E9%9B%86/"/>
-    <id>https://zfq0620.gitee.io/2020/02/20/13.hexo+sakura%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96%E5%90%88%E9%9B%86/</id>
+    <link href="https://zfq0620.github.io/2020/02/20/13.hexo+sakura%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96%E5%90%88%E9%9B%86/"/>
+    <id>https://zfq0620.github.io/2020/02/20/13.hexo+sakura%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96%E5%90%88%E9%9B%86/</id>
     <published>2020-02-20T08:18:01.000Z</published>
     <updated>2020-03-10T13:27:27.940Z</updated>
     
@@ -32,17 +32,17 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="前端" scheme="https://zfq0620.gitee.io/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zfq0620.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>数据结构与算法之排序</title>
-    <link href="https://zfq0620.gitee.io/2020/02/15/12.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E6%8E%92%E5%BA%8F/"/>
-    <id>https://zfq0620.gitee.io/2020/02/15/12.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E6%8E%92%E5%BA%8F/</id>
+    <link href="https://zfq0620.github.io/2020/02/15/12.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E6%8E%92%E5%BA%8F/"/>
+    <id>https://zfq0620.github.io/2020/02/15/12.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E6%8E%92%E5%BA%8F/</id>
     <published>2020-02-15T01:16:01.000Z</published>
     <updated>2020-03-10T10:44:09.049Z</updated>
     
@@ -55,17 +55,17 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="C语言" scheme="https://zfq0620.gitee.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+      <category term="C语言" scheme="https://zfq0620.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
   <entry>
     <title>单片机开发板引脚图</title>
-    <link href="https://zfq0620.gitee.io/2020/02/12/11.%E5%8D%95%E7%89%87%E6%9C%BA%E5%BC%80%E5%8F%91%E6%9D%BF%E5%BC%95%E8%84%9A%E5%9B%BE/"/>
-    <id>https://zfq0620.gitee.io/2020/02/12/11.%E5%8D%95%E7%89%87%E6%9C%BA%E5%BC%80%E5%8F%91%E6%9D%BF%E5%BC%95%E8%84%9A%E5%9B%BE/</id>
+    <link href="https://zfq0620.github.io/2020/02/12/11.%E5%8D%95%E7%89%87%E6%9C%BA%E5%BC%80%E5%8F%91%E6%9D%BF%E5%BC%95%E8%84%9A%E5%9B%BE/"/>
+    <id>https://zfq0620.github.io/2020/02/12/11.%E5%8D%95%E7%89%87%E6%9C%BA%E5%BC%80%E5%8F%91%E6%9D%BF%E5%BC%95%E8%84%9A%E5%9B%BE/</id>
     <published>2020-02-12T02:20:53.000Z</published>
     <updated>2020-03-10T13:27:06.218Z</updated>
     
@@ -78,19 +78,19 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="物联网" scheme="https://zfq0620.gitee.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
+      <category term="物联网" scheme="https://zfq0620.github.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
     
-      <category term="嵌入式" scheme="https://zfq0620.gitee.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+      <category term="嵌入式" scheme="https://zfq0620.github.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>C语言之字节序</title>
-    <link href="https://zfq0620.gitee.io/2020/02/10/10.C%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%AD%97%E8%8A%82%E5%BA%8F/"/>
-    <id>https://zfq0620.gitee.io/2020/02/10/10.C%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%AD%97%E8%8A%82%E5%BA%8F/</id>
+    <link href="https://zfq0620.github.io/2020/02/10/10.C%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%AD%97%E8%8A%82%E5%BA%8F/"/>
+    <id>https://zfq0620.github.io/2020/02/10/10.C%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%AD%97%E8%8A%82%E5%BA%8F/</id>
     <published>2020-02-10T04:30:10.000Z</published>
     <updated>2020-03-10T13:26:19.383Z</updated>
     
@@ -103,17 +103,17 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="C语言" scheme="https://zfq0620.gitee.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+      <category term="C语言" scheme="https://zfq0620.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
   <entry>
     <title>C语言之字符串处理</title>
-    <link href="https://zfq0620.gitee.io/2020/02/09/9.c%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9E%E7%8E%B0/"/>
-    <id>https://zfq0620.gitee.io/2020/02/09/9.c%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9E%E7%8E%B0/</id>
+    <link href="https://zfq0620.github.io/2020/02/09/9.c%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9E%E7%8E%B0/"/>
+    <id>https://zfq0620.github.io/2020/02/09/9.c%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9E%E7%8E%B0/</id>
     <published>2020-02-09T07:12:10.000Z</published>
     <updated>2020-03-10T13:26:05.456Z</updated>
     
@@ -126,17 +126,17 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="C语言" scheme="https://zfq0620.gitee.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+      <category term="C语言" scheme="https://zfq0620.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
   <entry>
     <title>轻松入手markdown编程</title>
-    <link href="https://zfq0620.gitee.io/2020/02/07/8.%E8%BD%BB%E6%9D%BE%E5%85%A5%E6%89%8BMarkdown%E7%BC%96%E7%A8%8B/"/>
-    <id>https://zfq0620.gitee.io/2020/02/07/8.%E8%BD%BB%E6%9D%BE%E5%85%A5%E6%89%8BMarkdown%E7%BC%96%E7%A8%8B/</id>
+    <link href="https://zfq0620.github.io/2020/02/07/8.%E8%BD%BB%E6%9D%BE%E5%85%A5%E6%89%8BMarkdown%E7%BC%96%E7%A8%8B/"/>
+    <id>https://zfq0620.github.io/2020/02/07/8.%E8%BD%BB%E6%9D%BE%E5%85%A5%E6%89%8BMarkdown%E7%BC%96%E7%A8%8B/</id>
     <published>2020-02-07T11:32:00.000Z</published>
     <updated>2020-03-10T13:25:48.632Z</updated>
     
@@ -149,17 +149,17 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="嵌入式" scheme="https://zfq0620.gitee.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+      <category term="嵌入式" scheme="https://zfq0620.github.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>玩转浏览器黑科技</title>
-    <link href="https://zfq0620.gitee.io/2020/02/06/7.%E7%8E%A9%E8%BD%AC%E6%B5%8F%E8%A7%88%E5%99%A8%E9%BB%91%E7%A7%91%E6%8A%80/"/>
-    <id>https://zfq0620.gitee.io/2020/02/06/7.%E7%8E%A9%E8%BD%AC%E6%B5%8F%E8%A7%88%E5%99%A8%E9%BB%91%E7%A7%91%E6%8A%80/</id>
+    <link href="https://zfq0620.github.io/2020/02/06/7.%E7%8E%A9%E8%BD%AC%E6%B5%8F%E8%A7%88%E5%99%A8%E9%BB%91%E7%A7%91%E6%8A%80/"/>
+    <id>https://zfq0620.github.io/2020/02/06/7.%E7%8E%A9%E8%BD%AC%E6%B5%8F%E8%A7%88%E5%99%A8%E9%BB%91%E7%A7%91%E6%8A%80/</id>
     <published>2020-02-06T01:32:00.000Z</published>
     <updated>2020-03-10T13:25:33.202Z</updated>
     
@@ -172,21 +172,21 @@
     </summary>
     
     
-      <category term="资源" scheme="https://zfq0620.gitee.io/categories/%E8%B5%84%E6%BA%90/"/>
+      <category term="资源" scheme="https://zfq0620.github.io/categories/%E8%B5%84%E6%BA%90/"/>
     
     
-      <category term="软件应用" scheme="https://zfq0620.gitee.io/tags/%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8/"/>
+      <category term="软件应用" scheme="https://zfq0620.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8/"/>
     
   </entry>
   
   <entry>
     <title>hexo+gitee搭建私人博客成功避开所有坑</title>
-    <link href="https://zfq0620.gitee.io/2020/02/05/6.hexo+gitee(%E7%A0%81%E4%BA%91)%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%81%BF%E5%BC%80%E6%89%80%E6%9C%89%E5%9D%91/"/>
-    <id>https://zfq0620.gitee.io/2020/02/05/6.hexo+gitee(%E7%A0%81%E4%BA%91)%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%81%BF%E5%BC%80%E6%89%80%E6%9C%89%E5%9D%91/</id>
+    <link href="https://zfq0620.github.io/2020/02/05/6.hexo+gitee(%E7%A0%81%E4%BA%91)%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%81%BF%E5%BC%80%E6%89%80%E6%9C%89%E5%9D%91/"/>
+    <id>https://zfq0620.github.io/2020/02/05/6.hexo+gitee(%E7%A0%81%E4%BA%91)%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%81%BF%E5%BC%80%E6%89%80%E6%9C%89%E5%9D%91/</id>
     <published>2020-02-05T08:12:00.000Z</published>
     <updated>2020-03-10T13:24:37.348Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="一-简介"><a href="#一-简介" class="headerlink" title="一.简介"></a>一.简介</h2><ul><li><p>为什么要搭建博客，因为某天突然看到好多大神级别的人物在发自己搭建的博客，效果特别的好，作为小白的我看了之后，蠢蠢欲动，于是乎一下走上了不归的试坑道路</p></li><li><p>搭建个人博客，一方面可以记录我们生活的方方面面，按照自己的需求设计自己的模块，可以说是私人订制了，另一方面就是给别人提供了一种了解你自己的渠道，可以说是自己的一个名片，因为我们需要的是让更多的人认识我们，而不是我们认识更多的人</p></li></ul><blockquote><p>在此请允许我秀一下成功后的喜悦，<a href="https://zfq0620.gitee.io/">我的博客</a></p></blockquote><h2 id="二-为什么使用hexo-码云搭建"><a href="#二-为什么使用hexo-码云搭建" class="headerlink" title="二.为什么使用hexo+码云搭建"></a>二.为什么使用hexo+码云搭建</h2><ol><li><p>我感觉搭建博客最简单的方法就是，在一个服务器上面去搭建，比如说阿里云，腾讯云等等，我们只需要在服务器的文件系统上传压缩包并解压，用测试域名就可以看到效果了，但是现在服务器都是收费的，从理想的角度来考虑，当然要选择一个可以长期使用而且不收费的服务器</p></li><li><p>所有我们选择码云，因为码云上有gitee pages(免费的静态网页托管服务)，目前码云支持Jekyll、Hugo、Hexo编译静态资源，不知道什么是<a href="https://gitee.com/help/articles/4136#article-header0" target="_blank" rel="noopener">Jekyll、Hugo、Hexo</a> 可以打开链接看看<br><img src="https://img-blog.csdnimg.cn/20200307165045742.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p></li><li><p>选择hexo的原因是，hexo基于Node.js实现的，而且目前主流的vue前端一般都是使用npm或者yarn来跑项目，因此使用hexo搭建博客比较简单</p></li></ol><h2 id="三-hexo-本地博客搭建"><a href="#三-hexo-本地博客搭建" class="headerlink" title="三.hexo 本地博客搭建"></a>三.hexo 本地博客搭建</h2><p><strong>这里我以windows系统为例，因为我条件限制，希望理解</strong></p><h3 id="1-准备"><a href="#1-准备" class="headerlink" title="1. 准备"></a>1. 准备</h3><p>这里我们需要下载安装两个软件，我们就去官网下载一下<a href="https://nodejs.org/en/" target="_blank" rel="noopener">node.js</a>和 <a href="https://git-scm.com/download/win" target="_blank" rel="noopener">git</a>，如何git 下载比较慢的话，在下面说码云使用教程模块，也有下载链接</p><h3 id="2-Node-js-的安装配置"><a href="#2-Node-js-的安装配置" class="headerlink" title="2.Node.js 的安装配置"></a>2.Node.js 的安装配置</h3><p>我们下载完 node.js 进行安装就可以了。</p><blockquote><p>关于配置可以参考这两篇文章</p><ol><li><a href="https://mp.weixin.qq.com/s?__biz=MzU3MDI4NTM5Mg==&mid=2247484485&idx=2&sn=643a205068a006fb162c2c1397d42d47&chksm=fcf0887acb87016ca195976dbedb279c1c7f4c579016cca11143f21a6dffbb89080d0cabf44d&scene=21#wechat_redirect" target="_blank" rel="noopener">node.js的安装</a></li><li><a href="https://mp.weixin.qq.com/s?__biz=MzU3MDI4NTM5Mg==&mid=2247484485&idx=3&sn=9f7895c0f5ba0e29b93afdc140bda9e6&chksm=fcf0887acb87016cca4e902de7a501c52368ea52bebbe6e75cb10ea8b784c13f5dcabf042ca3&scene=21#wechat_redirect" target="_blank" rel="noopener">node.js的环境配置</a></li></ol></blockquote><h3 id="3-hexo-的安装"><a href="#3-hexo-的安装" class="headerlink" title="3.hexo 的安装"></a>3.hexo 的安装</h3><pre class=" language-c"><code class="language-c"><span class="token comment" spellcheck="true">//接下来我们安装hexo，打开git 命令行，执行如下命令</span>$ npm install hexo<span class="token operator">-</span>cli <span class="token operator">-</span>g</code></pre><p><img src="https://img-blog.csdnimg.cn/20200307170441173.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><blockquote><p>注意：输入hexo 按回车，出现下面help 就说明安装成功</p></blockquote><h3 id="4-初始化项目文件"><a href="#4-初始化项目文件" class="headerlink" title="4.初始化项目文件"></a>4.初始化项目文件</h3><p>在准备放项目文件的目录，可以通过windows的cmd终端或者git bash 执行如下的命令</p><pre class=" language-c"><code class="language-c">hexo init blog   <span class="token comment" spellcheck="true">//注意：blog为项目的文件夹名可自定义</span></code></pre><p>执行命令就会开始下载文件<br><img src="https://img-blog.csdnimg.cn/20200307171000690.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>下载成功之后的目录是这样的<br><img src="https://img-blog.csdnimg.cn/2020030719010916.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/20200307191025235.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><h3 id="5-本地测试项目"><a href="#5-本地测试项目" class="headerlink" title="5.本地测试项目"></a>5.本地测试项目</h3><p>输入常用的hexo 命令进行本地的测试</p><pre class=" language-c"><code class="language-c">hexo clean <span class="token comment" spellcheck="true">//清空已经存在的hexo网站文件</span>hexo <span class="token function">generate</span><span class="token punctuation">(</span>可简写g<span class="token punctuation">)</span> <span class="token comment" spellcheck="true">//依据网页文件和新的css样式生成新的网站文件</span>hexo <span class="token function">server</span><span class="token punctuation">(</span>可简写为s<span class="token punctuation">)</span> <span class="token comment" spellcheck="true">//启动本地服务器，可以在localhost：4000查看网站修改效果</span></code></pre><p>我们先 输入 hexo g 生成网站文件<br><img src="https://img-blog.csdnimg.cn/20200307194109630.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>然后再启动本地服务器，我在在浏览器输入 <a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a> 就能看到样式内容了<br><img src="https://img-blog.csdnimg.cn/20200307194337111.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/20200307194654587.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>到这里本地测试就结束了，关键我们要放在服务器上面，本地测试适用于我们，一边修改代码，一边刷新网页查看修改好的样子</p><h2 id="四-主题模块"><a href="#四-主题模块" class="headerlink" title="四.主题模块"></a>四.主题模块</h2><ol><li><p>一般默认安装的主题是一个 landscape 主题，但是我感觉不是很花哨，而且hexo的主题特别多，都挺漂亮的，我们可以选择更改</p><blockquote><p><a href="https://hexo.io/themes/" target="_blank" rel="noopener">hexo官方主题：https://hexo.io/themes/</a></p></blockquote></li><li><p>给大家推荐一个主题 sakura，我搭建的主题就是这个，效果还是挺不错的,<a href="https://github.com/honjun/hexo-theme-sakura" target="_blank" rel="noopener">sakura下载链接</a><br><img src="https://img-blog.csdnimg.cn/20200307223006950.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p></li><li><p>下载之后，我们将hexo-theme-sakura-master中的主题样式复制到 根目录下的 theme 目录下<br><img src="https://img-blog.csdnimg.cn/20200307222330953.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/2020030722243065.png" alt="在这里插入图片描述"></p></li><li><p>修改更目录下的配置文件 _config.yml</p></li></ol><blockquote><p>注意<br>theme： sakura    //此处的主题名字要和theme文件夹下主题名一致</p></blockquote><p><img src="https://img-blog.csdnimg.cn/20200307222845632.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>5. 重新运行测试,查看效果</p><pre class=" language-c"><code class="language-c">hexo cleanhexo ghexo s</code></pre><h2 id="五-码云部署"><a href="#五-码云部署" class="headerlink" title="五.码云部署"></a>五.码云部署</h2><ol><li>首先我们需要注册码云的账号，然后在创建一个仓库，这里初次使用码云的话可以，先看一下<a href="https://blog.csdn.net/weixin_45631738/article/details/104414876" target="_blank" rel="noopener">码云入门</a></li><li>当然注册账号我们可以直接进入码云官网：<a href="https://gitee.com/" target="_blank" rel="noopener">https://gitee.com/</a>都是中文一看就会的那种</li><li>创建仓库<br> 特别要注意这里有个大坑：<code>仓库名称，使用语言(JavaScript)，访问权限(公开)</code><br> <img src="https://img-blog.csdnimg.cn/20200307201109990.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/20200307201826785.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><blockquote><p>作为小白的我，成功的掉进这个坑里爬了好几天，没爬出来，最终请教大神帮忙，才发现是此处的原因。<br>当时，写的仓库名不是我的用户名，导致码云pages部署的路径有问题，导致相对路径不对，读不到css样式和js运行文件，所有进去后就是这个样子，所以依次告警大家不要入坑</p></blockquote></li></ol><p><img src="https://img-blog.csdnimg.cn/20200307224725494.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><ol start="4"><li><p>获取仓库地址<br> <img src="https://img-blog.csdnimg.cn/20200307202408310.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p></li><li><p>修改配置文件 在blog主目录下找到 _config.yml 打开进行配置，在代码的最底下找到此处<br> <img src="https://img-blog.csdnimg.cn/20200307202747687.png" alt="在这里插入图片描述"><br> 修改之后的样子，<br> <strong>特别注意这里还有个坑</strong>：<code>修改代码时候注意空格</code>，例如 repo： 后面都是有空格的，删除空格之后，后面运行的时候就会报错，这是编码的规定<br><img src="https://img-blog.csdnimg.cn/20200307203008590.png" alt="在这里插入图片描述"></p></li><li><p>开始部署，我们需要属于以下命令</p></li></ol><pre class=" language-C"><code class="language-C">npm install hexo-deployer-git --savehexo g  //生成网站文件hexo d  //上传到远程在码云上新建的仓库//也可以采用一键部署hexo g --d</code></pre><p>此时会弹出对话框让我们输入码云的用户名和密码，我们输完以后，就会开始上传，在本地文件夹中会多出来.deploy_git文件夹（上传的是此外文件夹下的内容，也就是生成的网站文件）<br><img src="https://img-blog.csdnimg.cn/20200307205213501.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>登录码云账户，打开和自己用户名相同的仓库观察，如果出现和.deploy_git或者public文件夹下的文件就证明文件上传成功<br><img src="https://img-blog.csdnimg.cn/20200307205625309.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>7. 开启pages功能<br><img src="https://img-blog.csdnimg.cn/20200307210149690.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/20200307210929528.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>    这样我们就可以点击生成的域名来看我们搭建的效果了<a href="https://zfq0620.gitee.io">https://zfq0620.gitee.io</a></p><h2 id="六-博客使用"><a href="#六-博客使用" class="headerlink" title="六.博客使用"></a>六.博客使用</h2><h3 id="1-编写文章"><a href="#1-编写文章" class="headerlink" title="1.编写文章"></a>1.编写文章</h3><blockquote><p>首先我给大家推荐一个软件 vsCode,这个软件占用空间很小，插件很多，功能特别强大，我们可以打开我们整个文件夹，进行修改代码，写文章，对我们提高效率很有帮助<br>下载：<a href="https://www.lanzous.com/ia2kt9a" target="_blank" rel="noopener">vsCode.exe</a><br><img src="https://img-blog.csdnimg.cn/20200309100627872.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p></blockquote><p><strong>方法一</strong><br>通过命令来实现</p><pre class=" language-c"><code class="language-c">hexo new hello  <span class="token comment" spellcheck="true">//hello 为博客的文件名</span></code></pre><p>同时会在 根目录下 /source/_posts 目录下生成hello.md<br><img src="https://img-blog.csdnimg.cn/20200307213138179.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><strong>方法二</strong><br>手动到根目录下 /source/_posts 目录下，创建一个makedown 文件进行编写就可以了</p><p>文件开头可以参考这里来写</p><pre class=" language-c"><code class="language-c"><span class="token operator">--</span><span class="token operator">-</span>title： file_nametag： 标签名categories： 分类comment： 是否允许评论<span class="token punctuation">(</span>true or false<span class="token punctuation">)</span>description：描述<span class="token operator">--</span><span class="token operator">-</span>文章的正文部分，可以参考markdown 语法格式来写</code></pre><h3 id="2-发布文章"><a href="#2-发布文章" class="headerlink" title="2.发布文章"></a>2.发布文章</h3><p>我们还是使用命令，推送到gitee上</p><pre class=" language-c"><code class="language-c">hexo g <span class="token operator">--</span>d</code></pre><p>推送成功之后，我们观察码云的远程仓库，我们的md格式的文件会自动生成到对应的目录，并且转化成html格式</p><p>我们在去浏览我们的网站，如何发现和之前一样没有找到我们发布的文章，我们就到码云的page服务，去更新<br><img src="https://img-blog.csdnimg.cn/20200307215838546.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><hr><p>将 csdn 博客导出在我们自己新建的博客中的方法<br><img src="https://img-blog.csdnimg.cn/20200307220217873.png" alt="在这里插入图片描述"><br>点击导出，格式为makedown，复制到 /source/_posts 目录下，并加以修改添加一下部分，进行分类</p><pre class=" language-c"><code class="language-c"><span class="token operator">--</span><span class="token operator">-</span>title： file_nametag： 标签名categories： 分类comment： 是否允许评论<span class="token punctuation">(</span>true or false<span class="token punctuation">)</span>description：描述<span class="token operator">--</span><span class="token operator">-</span></code></pre>]]></content>
+    <content type="html"><![CDATA[<h2 id="一-简介"><a href="#一-简介" class="headerlink" title="一.简介"></a>一.简介</h2><ul><li><p>为什么要搭建博客，因为某天突然看到好多大神级别的人物在发自己搭建的博客，效果特别的好，作为小白的我看了之后，蠢蠢欲动，于是乎一下走上了不归的试坑道路</p></li><li><p>搭建个人博客，一方面可以记录我们生活的方方面面，按照自己的需求设计自己的模块，可以说是私人订制了，另一方面就是给别人提供了一种了解你自己的渠道，可以说是自己的一个名片，因为我们需要的是让更多的人认识我们，而不是我们认识更多的人</p></li></ul><blockquote><p>在此请允许我秀一下成功后的喜悦，<a href="https://zfq0620.gitee.io/" target="_blank" rel="noopener">我的博客</a></p></blockquote><h2 id="二-为什么使用hexo-码云搭建"><a href="#二-为什么使用hexo-码云搭建" class="headerlink" title="二.为什么使用hexo+码云搭建"></a>二.为什么使用hexo+码云搭建</h2><ol><li><p>我感觉搭建博客最简单的方法就是，在一个服务器上面去搭建，比如说阿里云，腾讯云等等，我们只需要在服务器的文件系统上传压缩包并解压，用测试域名就可以看到效果了，但是现在服务器都是收费的，从理想的角度来考虑，当然要选择一个可以长期使用而且不收费的服务器</p></li><li><p>所有我们选择码云，因为码云上有gitee pages(免费的静态网页托管服务)，目前码云支持Jekyll、Hugo、Hexo编译静态资源，不知道什么是<a href="https://gitee.com/help/articles/4136#article-header0" target="_blank" rel="noopener">Jekyll、Hugo、Hexo</a> 可以打开链接看看<br><img src="https://img-blog.csdnimg.cn/20200307165045742.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p></li><li><p>选择hexo的原因是，hexo基于Node.js实现的，而且目前主流的vue前端一般都是使用npm或者yarn来跑项目，因此使用hexo搭建博客比较简单</p></li></ol><h2 id="三-hexo-本地博客搭建"><a href="#三-hexo-本地博客搭建" class="headerlink" title="三.hexo 本地博客搭建"></a>三.hexo 本地博客搭建</h2><p><strong>这里我以windows系统为例，因为我条件限制，希望理解</strong></p><h3 id="1-准备"><a href="#1-准备" class="headerlink" title="1. 准备"></a>1. 准备</h3><p>这里我们需要下载安装两个软件，我们就去官网下载一下<a href="https://nodejs.org/en/" target="_blank" rel="noopener">node.js</a>和 <a href="https://git-scm.com/download/win" target="_blank" rel="noopener">git</a>，如何git 下载比较慢的话，在下面说码云使用教程模块，也有下载链接</p><h3 id="2-Node-js-的安装配置"><a href="#2-Node-js-的安装配置" class="headerlink" title="2.Node.js 的安装配置"></a>2.Node.js 的安装配置</h3><p>我们下载完 node.js 进行安装就可以了。</p><blockquote><p>关于配置可以参考这两篇文章</p><ol><li><a href="https://mp.weixin.qq.com/s?__biz=MzU3MDI4NTM5Mg==&mid=2247484485&idx=2&sn=643a205068a006fb162c2c1397d42d47&chksm=fcf0887acb87016ca195976dbedb279c1c7f4c579016cca11143f21a6dffbb89080d0cabf44d&scene=21#wechat_redirect" target="_blank" rel="noopener">node.js的安装</a></li><li><a href="https://mp.weixin.qq.com/s?__biz=MzU3MDI4NTM5Mg==&mid=2247484485&idx=3&sn=9f7895c0f5ba0e29b93afdc140bda9e6&chksm=fcf0887acb87016cca4e902de7a501c52368ea52bebbe6e75cb10ea8b784c13f5dcabf042ca3&scene=21#wechat_redirect" target="_blank" rel="noopener">node.js的环境配置</a></li></ol></blockquote><h3 id="3-hexo-的安装"><a href="#3-hexo-的安装" class="headerlink" title="3.hexo 的安装"></a>3.hexo 的安装</h3><pre class=" language-c"><code class="language-c"><span class="token comment" spellcheck="true">//接下来我们安装hexo，打开git 命令行，执行如下命令</span>$ npm install hexo<span class="token operator">-</span>cli <span class="token operator">-</span>g</code></pre><p><img src="https://img-blog.csdnimg.cn/20200307170441173.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><blockquote><p>注意：输入hexo 按回车，出现下面help 就说明安装成功</p></blockquote><h3 id="4-初始化项目文件"><a href="#4-初始化项目文件" class="headerlink" title="4.初始化项目文件"></a>4.初始化项目文件</h3><p>在准备放项目文件的目录，可以通过windows的cmd终端或者git bash 执行如下的命令</p><pre class=" language-c"><code class="language-c">hexo init blog   <span class="token comment" spellcheck="true">//注意：blog为项目的文件夹名可自定义</span></code></pre><p>执行命令就会开始下载文件<br><img src="https://img-blog.csdnimg.cn/20200307171000690.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>下载成功之后的目录是这样的<br><img src="https://img-blog.csdnimg.cn/2020030719010916.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/20200307191025235.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><h3 id="5-本地测试项目"><a href="#5-本地测试项目" class="headerlink" title="5.本地测试项目"></a>5.本地测试项目</h3><p>输入常用的hexo 命令进行本地的测试</p><pre class=" language-c"><code class="language-c">hexo clean <span class="token comment" spellcheck="true">//清空已经存在的hexo网站文件</span>hexo <span class="token function">generate</span><span class="token punctuation">(</span>可简写g<span class="token punctuation">)</span> <span class="token comment" spellcheck="true">//依据网页文件和新的css样式生成新的网站文件</span>hexo <span class="token function">server</span><span class="token punctuation">(</span>可简写为s<span class="token punctuation">)</span> <span class="token comment" spellcheck="true">//启动本地服务器，可以在localhost：4000查看网站修改效果</span></code></pre><p>我们先 输入 hexo g 生成网站文件<br><img src="https://img-blog.csdnimg.cn/20200307194109630.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>然后再启动本地服务器，我在在浏览器输入 <a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a> 就能看到样式内容了<br><img src="https://img-blog.csdnimg.cn/20200307194337111.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/20200307194654587.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>到这里本地测试就结束了，关键我们要放在服务器上面，本地测试适用于我们，一边修改代码，一边刷新网页查看修改好的样子</p><h2 id="四-主题模块"><a href="#四-主题模块" class="headerlink" title="四.主题模块"></a>四.主题模块</h2><ol><li><p>一般默认安装的主题是一个 landscape 主题，但是我感觉不是很花哨，而且hexo的主题特别多，都挺漂亮的，我们可以选择更改</p><blockquote><p><a href="https://hexo.io/themes/" target="_blank" rel="noopener">hexo官方主题：https://hexo.io/themes/</a></p></blockquote></li><li><p>给大家推荐一个主题 sakura，我搭建的主题就是这个，效果还是挺不错的,<a href="https://github.com/honjun/hexo-theme-sakura" target="_blank" rel="noopener">sakura下载链接</a><br><img src="https://img-blog.csdnimg.cn/20200307223006950.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p></li><li><p>下载之后，我们将hexo-theme-sakura-master中的主题样式复制到 根目录下的 theme 目录下<br><img src="https://img-blog.csdnimg.cn/20200307222330953.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/2020030722243065.png" alt="在这里插入图片描述"></p></li><li><p>修改更目录下的配置文件 _config.yml</p></li></ol><blockquote><p>注意<br>theme： sakura    //此处的主题名字要和theme文件夹下主题名一致</p></blockquote><p><img src="https://img-blog.csdnimg.cn/20200307222845632.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>5. 重新运行测试,查看效果</p><pre class=" language-c"><code class="language-c">hexo cleanhexo ghexo s</code></pre><h2 id="五-码云部署"><a href="#五-码云部署" class="headerlink" title="五.码云部署"></a>五.码云部署</h2><ol><li>首先我们需要注册码云的账号，然后在创建一个仓库，这里初次使用码云的话可以，先看一下<a href="https://blog.csdn.net/weixin_45631738/article/details/104414876" target="_blank" rel="noopener">码云入门</a></li><li>当然注册账号我们可以直接进入码云官网：<a href="https://gitee.com/" target="_blank" rel="noopener">https://gitee.com/</a>都是中文一看就会的那种</li><li>创建仓库<br> 特别要注意这里有个大坑：<code>仓库名称，使用语言(JavaScript)，访问权限(公开)</code><br> <img src="https://img-blog.csdnimg.cn/20200307201109990.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/20200307201826785.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><blockquote><p>作为小白的我，成功的掉进这个坑里爬了好几天，没爬出来，最终请教大神帮忙，才发现是此处的原因。<br>当时，写的仓库名不是我的用户名，导致码云pages部署的路径有问题，导致相对路径不对，读不到css样式和js运行文件，所有进去后就是这个样子，所以依次告警大家不要入坑</p></blockquote></li></ol><p><img src="https://img-blog.csdnimg.cn/20200307224725494.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><ol start="4"><li><p>获取仓库地址<br> <img src="https://img-blog.csdnimg.cn/20200307202408310.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p></li><li><p>修改配置文件 在blog主目录下找到 _config.yml 打开进行配置，在代码的最底下找到此处<br> <img src="https://img-blog.csdnimg.cn/20200307202747687.png" alt="在这里插入图片描述"><br> 修改之后的样子，<br> <strong>特别注意这里还有个坑</strong>：<code>修改代码时候注意空格</code>，例如 repo： 后面都是有空格的，删除空格之后，后面运行的时候就会报错，这是编码的规定<br><img src="https://img-blog.csdnimg.cn/20200307203008590.png" alt="在这里插入图片描述"></p></li><li><p>开始部署，我们需要属于以下命令</p></li></ol><pre class=" language-C"><code class="language-C">npm install hexo-deployer-git --savehexo g  //生成网站文件hexo d  //上传到远程在码云上新建的仓库//也可以采用一键部署hexo g --d</code></pre><p>此时会弹出对话框让我们输入码云的用户名和密码，我们输完以后，就会开始上传，在本地文件夹中会多出来.deploy_git文件夹（上传的是此外文件夹下的内容，也就是生成的网站文件）<br><img src="https://img-blog.csdnimg.cn/20200307205213501.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>登录码云账户，打开和自己用户名相同的仓库观察，如果出现和.deploy_git或者public文件夹下的文件就证明文件上传成功<br><img src="https://img-blog.csdnimg.cn/20200307205625309.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>7. 开启pages功能<br><img src="https://img-blog.csdnimg.cn/20200307210149690.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/20200307210929528.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>    这样我们就可以点击生成的域名来看我们搭建的效果了<a href="https://zfq0620.gitee.io" target="_blank" rel="noopener">https://zfq0620.gitee.io</a></p><h2 id="六-博客使用"><a href="#六-博客使用" class="headerlink" title="六.博客使用"></a>六.博客使用</h2><h3 id="1-编写文章"><a href="#1-编写文章" class="headerlink" title="1.编写文章"></a>1.编写文章</h3><blockquote><p>首先我给大家推荐一个软件 vsCode,这个软件占用空间很小，插件很多，功能特别强大，我们可以打开我们整个文件夹，进行修改代码，写文章，对我们提高效率很有帮助<br>下载：<a href="https://www.lanzous.com/ia2kt9a" target="_blank" rel="noopener">vsCode.exe</a><br><img src="https://img-blog.csdnimg.cn/20200309100627872.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p></blockquote><p><strong>方法一</strong><br>通过命令来实现</p><pre class=" language-c"><code class="language-c">hexo new hello  <span class="token comment" spellcheck="true">//hello 为博客的文件名</span></code></pre><p>同时会在 根目录下 /source/_posts 目录下生成hello.md<br><img src="https://img-blog.csdnimg.cn/20200307213138179.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><strong>方法二</strong><br>手动到根目录下 /source/_posts 目录下，创建一个makedown 文件进行编写就可以了</p><p>文件开头可以参考这里来写</p><pre class=" language-c"><code class="language-c"><span class="token operator">--</span><span class="token operator">-</span>title： file_nametag： 标签名categories： 分类comment： 是否允许评论<span class="token punctuation">(</span>true or false<span class="token punctuation">)</span>description：描述<span class="token operator">--</span><span class="token operator">-</span>文章的正文部分，可以参考markdown 语法格式来写</code></pre><h3 id="2-发布文章"><a href="#2-发布文章" class="headerlink" title="2.发布文章"></a>2.发布文章</h3><p>我们还是使用命令，推送到gitee上</p><pre class=" language-c"><code class="language-c">hexo g <span class="token operator">--</span>d</code></pre><p>推送成功之后，我们观察码云的远程仓库，我们的md格式的文件会自动生成到对应的目录，并且转化成html格式</p><p>我们在去浏览我们的网站，如何发现和之前一样没有找到我们发布的文章，我们就到码云的page服务，去更新<br><img src="https://img-blog.csdnimg.cn/20200307215838546.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYzMTczOA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><hr><p>将 csdn 博客导出在我们自己新建的博客中的方法<br><img src="https://img-blog.csdnimg.cn/20200307220217873.png" alt="在这里插入图片描述"><br>点击导出，格式为makedown，复制到 /source/_posts 目录下，并加以修改添加一下部分，进行分类</p><pre class=" language-c"><code class="language-c"><span class="token operator">--</span><span class="token operator">-</span>title： file_nametag： 标签名categories： 分类comment： 是否允许评论<span class="token punctuation">(</span>true or false<span class="token punctuation">)</span>description：描述<span class="token operator">--</span><span class="token operator">-</span></code></pre>]]></content>
     
     <summary type="html">
     
@@ -195,17 +195,17 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="前端" scheme="https://zfq0620.gitee.io/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zfq0620.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>PicGo+jsdelivr+github打造私人图床</title>
-    <link href="https://zfq0620.gitee.io/2020/02/04/5.PicGo+jsdelivr+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/"/>
-    <id>https://zfq0620.gitee.io/2020/02/04/5.PicGo+jsdelivr+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</id>
+    <link href="https://zfq0620.github.io/2020/02/04/5.PicGo+jsdelivr+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/"/>
+    <id>https://zfq0620.github.io/2020/02/04/5.PicGo+jsdelivr+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</id>
     <published>2020-02-04T05:12:00.000Z</published>
     <updated>2020-03-10T13:22:36.049Z</updated>
     
@@ -218,17 +218,17 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="前端" scheme="https://zfq0620.gitee.io/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zfq0620.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>jsDeliver+github打造私人图床</title>
-    <link href="https://zfq0620.gitee.io/2020/02/03/4.jsDeliver+github%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A/"/>
-    <id>https://zfq0620.gitee.io/2020/02/03/4.jsDeliver+github%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A/</id>
+    <link href="https://zfq0620.github.io/2020/02/03/4.jsDeliver+github%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A/"/>
+    <id>https://zfq0620.github.io/2020/02/03/4.jsDeliver+github%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A/</id>
     <published>2020-02-03T03:12:00.000Z</published>
     <updated>2020-03-10T13:24:18.034Z</updated>
     
@@ -241,17 +241,17 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="前端" scheme="https://zfq0620.gitee.io/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zfq0620.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>小白入门码云</title>
-    <link href="https://zfq0620.gitee.io/2020/02/02/3.%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8gitee%EF%BC%88%E7%A0%81%E4%BA%91%EF%BC%89/"/>
-    <id>https://zfq0620.gitee.io/2020/02/02/3.%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8gitee%EF%BC%88%E7%A0%81%E4%BA%91%EF%BC%89/</id>
+    <link href="https://zfq0620.github.io/2020/02/02/3.%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8gitee%EF%BC%88%E7%A0%81%E4%BA%91%EF%BC%89/"/>
+    <id>https://zfq0620.github.io/2020/02/02/3.%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8gitee%EF%BC%88%E7%A0%81%E4%BA%91%EF%BC%89/</id>
     <published>2020-02-02T02:10:01.000Z</published>
     <updated>2020-03-10T13:23:47.871Z</updated>
     
@@ -264,17 +264,17 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="嵌入式" scheme="https://zfq0620.gitee.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+      <category term="嵌入式" scheme="https://zfq0620.github.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>小白入门github</title>
-    <link href="https://zfq0620.gitee.io/2020/02/01/2.%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8%20github/"/>
-    <id>https://zfq0620.gitee.io/2020/02/01/2.%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8%20github/</id>
+    <link href="https://zfq0620.github.io/2020/02/01/2.%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8%20github/"/>
+    <id>https://zfq0620.github.io/2020/02/01/2.%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8%20github/</id>
     <published>2020-02-01T01:10:01.000Z</published>
     <updated>2020-03-10T13:23:28.306Z</updated>
     
@@ -287,17 +287,17 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="嵌入式" scheme="https://zfq0620.gitee.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+      <category term="嵌入式" scheme="https://zfq0620.github.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>Hexo-Theme-Sakura</title>
-    <link href="https://zfq0620.gitee.io/2020/01/01/1.Hexo-Theme-Sakura/"/>
-    <id>https://zfq0620.gitee.io/2020/01/01/1.Hexo-Theme-Sakura/</id>
+    <link href="https://zfq0620.github.io/2020/01/01/1.Hexo-Theme-Sakura/"/>
+    <id>https://zfq0620.github.io/2020/01/01/1.Hexo-Theme-Sakura/</id>
     <published>2020-01-01T02:16:00.000Z</published>
     <updated>2020-03-10T13:23:07.884Z</updated>
     
@@ -310,10 +310,10 @@
     </summary>
     
     
-      <category term="技术" scheme="https://zfq0620.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://zfq0620.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="前端" scheme="https://zfq0620.gitee.io/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://zfq0620.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
